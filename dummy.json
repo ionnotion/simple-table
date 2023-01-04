@@ -1,0 +1,252 @@
+[
+    {
+        "id" :1,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 1",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "10",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :2,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 2",
+        "condition" : "Bopak",
+        "block" : "11",
+        "slabNumber" : "11",
+        "size" : "10x11x11"
+    },
+    {
+        "id" :3,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 3",
+        "condition" : "Bopak",
+        "block" : "10",
+        "slabNumber" : "18",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :4,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 4",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "15",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :5,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 11",
+        "condition" : "Mulus",
+        "block" : "20",
+        "slabNumber" : "30",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :6,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 1",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "10",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :7,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 2",
+        "condition" : "Bopak",
+        "block" : "11",
+        "slabNumber" : "11",
+        "size" : "10x11x11"
+    },
+    {
+        "id" :8,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 3",
+        "condition" : "Bopak",
+        "block" : "10",
+        "slabNumber" : "18",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :9,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 4",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "15",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :10,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 11",
+        "condition" : "Mulus",
+        "block" : "20",
+        "slabNumber" : "30",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :11,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 1",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "10",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :12,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 2",
+        "condition" : "Bopak",
+        "block" : "11",
+        "slabNumber" : "11",
+        "size" : "10x11x11"
+    },
+    {
+        "id" :13,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 3",
+        "condition" : "Bopak",
+        "block" : "10",
+        "slabNumber" : "18",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :14,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 4",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "15",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :15,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 11",
+        "condition" : "Mulus",
+        "block" : "20",
+        "slabNumber" : "30",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :16,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 1",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "10",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :17,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 2",
+        "condition" : "Bopak",
+        "block" : "11",
+        "slabNumber" : "11",
+        "size" : "10x11x11"
+    },
+    {
+        "id" :18,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 3",
+        "condition" : "Bopak",
+        "block" : "10",
+        "slabNumber" : "18",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :19,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 4",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "15",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :20,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 11",
+        "condition" : "Mulus",
+        "block" : "20",
+        "slabNumber" : "30",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :21,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 1",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "10",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :22,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 2",
+        "condition" : "Bopak",
+        "block" : "11",
+        "slabNumber" : "11",
+        "size" : "10x11x11"
+    },
+    {
+        "id" :23,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 3",
+        "condition" : "Bopak",
+        "block" : "10",
+        "slabNumber" : "18",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :24,
+        "materialName": "Marmer",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 4",
+        "condition" : "Mulus",
+        "block" : "10",
+        "slabNumber" : "15",
+        "size" : "10x10x10"
+    },
+    {
+        "id" :25,
+        "materialName": "Granite",
+        "materialType" : "Bebatuan",
+        "location" : "Gudang 11",
+        "condition" : "Mulus",
+        "block" : "20",
+        "slabNumber" : "30",
+        "size" : "10x10x10"
+    }
+]
